@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\bin\Debug\net6.0\Generics-List-Collections.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\bin\Debug\net6.0\Generics-List-Collections.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\bin\Debug\net6.0\Generics-List-Collections.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\bin\Debug\net6.0\Generics-List-Collections.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\bin\Debug\net6.0\Generics-List-Collections.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\refint\Generics-List-Collections.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\Generics-List-Collections.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-List-Collections\Generics-List-Collections\obj\Debug\net6.0\ref\Generics-List-Collections.dll
