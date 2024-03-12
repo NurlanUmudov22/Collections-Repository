@@ -224,3 +224,135 @@ using System.Collections;
 //{
 //    Console.WriteLine(item.Key + "-" + item.Value);
 //} 
+
+
+
+
+
+
+//Dictionary<string,string> datas = new Dictionary<string,string>();
+
+//datas.Add("test1", "Salam1");
+//datas.Add("test2", "salam2");
+//datas.Add("test3", "salam3");
+
+//foreach (KeyValuePair<string,string> item in datas)
+//{
+//    Console.WriteLine(item.Key + "-" + item.Value);
+//}
+
+//Console.WriteLine(datas["test1"]);
+
+
+//foreach (KeyValuePair<string, string> item in datas)
+//{
+//    if (item.Value == "salam3")
+//    {
+//        Console.WriteLine(item.Key);
+//    }
+
+//}
+
+
+
+
+
+
+
+//Stack<int> nums = new();
+
+//nums.Push(1);
+//nums.Push(255);
+    
+//nums.Push(344);
+//nums.Push(434);
+
+
+//foreach (var item in nums)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+
+
+
+//Queue<int> nums = new();
+
+//nums.Enqueue(1);
+//nums.Enqueue(255);
+
+//nums.Enqueue(344);
+//nums.Enqueue(434);
+
+
+//foreach (var item in nums)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+//IEnumerable<int> nums = new List<int>();
+
+
+
+
+
+
+List<int> numbers = new List<int>();
+
+numbers.Add(1);
+numbers.Add(2);
+numbers.Add(3);
+numbers.Add(4);
+
+
+//Console.WriteLine(numbers[0]);
+
+//foreach (var item in numbers)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+//for (int i = 0; i < numbers.Count; i++)
+//{
+//    Console.WriteLine(numbers[i]);
+//}
+
+
+//Console.WriteLine(numbers.FirstOrDefault(m => m==3));
+
+
+
+
+//numbers.Remove(1);
+//foreach (var item in numbers)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+
+
+//numbers.RemoveRange(0,2);
+
+//foreach (var item in numbers)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+
+//List<int> numbers2 = new List<int> { 1,2,3,4,5};
+
+
+
+
+
+//numbers.AddRange(numbers2);
+
+//foreach (var item in numbers)
+//{
+//    Console.WriteLine(item);
+//}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|c:\\users\\nurlanmu\\desktop\\c#\\collections-repository\\generics-practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|solutionrelative:generics-practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|c:\\users\\nurlanmu\\desktop\\c#\\collections-repository\\generics-practise\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|solutionrelative:generics-practise\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|c:\\users\\nurlanmu\\desktop\\c#\\collections-repository\\generics-practise\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|solutionrelative:generics-practise\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|c:\\users\\nurlanmu\\desktop\\c#\\collections-repository\\generics-practise\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B387D11-28A8-4B1C-A20E-70AFFAD9A5D3}|Generics-Practise\\Generics-Practise.csproj|solutionrelative:generics-practise\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Book.cs",
+              "RelativeDocumentMoniker": "Generics-Practise\\Book.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Book.cs",
+              "RelativeToolTip": "Generics-Practise\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:17:30.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Generics-Practise\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\BaseEntity.cs",
+              "RelativeToolTip": "Generics-Practise\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:17:30.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Repository.cs",
+              "RelativeDocumentMoniker": "Generics-Practise\\Repository.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Repository.cs",
+              "RelativeToolTip": "Generics-Practise\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:17:30.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Generics-Practise\\Program.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Program.cs",
+              "RelativeToolTip": "Generics-Practise\\Program.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAiwFIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:17:30.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

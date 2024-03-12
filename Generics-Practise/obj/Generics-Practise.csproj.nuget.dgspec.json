@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nurlanmu\\Desktop\\Generics-List\\Generics-Practise\\Generics-Practise\\Generics-Practise.csproj": {}
+    "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Generics-Practise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nurlanmu\\Desktop\\Generics-List\\Generics-Practise\\Generics-Practise\\Generics-Practise.csproj": {
+    "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Generics-Practise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurlanmu\\Desktop\\Generics-List\\Generics-Practise\\Generics-Practise\\Generics-Practise.csproj",
+        "projectUniqueName": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Generics-Practise.csproj",
         "projectName": "Generics-Practise",
-        "projectPath": "C:\\Users\\nurlanmu\\Desktop\\Generics-List\\Generics-Practise\\Generics-Practise\\Generics-Practise.csproj",
+        "projectPath": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\Generics-Practise.csproj",
         "packagesPath": "C:\\Users\\nurlanmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurlanmu\\Desktop\\Generics-List\\Generics-Practise\\Generics-Practise\\obj\\",
+        "outputPath": "C:\\Users\\nurlanmu\\Desktop\\C#\\Collections-Repository\\Generics-Practise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
